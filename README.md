@@ -1,5 +1,5 @@
 # strongpg
-Light password generator on Python.
+Simple password generator on Python.
 
 ! "Application" requires installed Python !
 
