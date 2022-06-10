@@ -1,6 +1,6 @@
 # strongpg
-Light password generator on Python, one of my first projects.
+Light password generator on Python.
 
-! The "application" requires Python to be installed. !
+! "Application" requires installed Python !
 
 ![Новый проект 22  940C061](https://user-images.githubusercontent.com/99596170/173096350-17365911-23e3-4903-bee3-ebd837f4d269.png)
